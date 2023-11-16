@@ -1,0 +1,7 @@
+models/props/de_train/hr_t/barrel_a/barrel_a.mdl
+models/props_foliage/urban_tree_giant01_small.mdl
+models/props_street/firehydrant.mdl
+models/props/de_cbble/cobble_ladder.mdl
+models/props/de_inferno/tree_large.mdl
+models/props/de_overpass/playground_sign.mdl
+models/props_misc/fairground_awning.mdl
